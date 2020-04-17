@@ -2,7 +2,7 @@ class AboutSection {
     constructor() {
         this.createdBy = 'exynil'
         this.sourceCode = function () {
-            window.open('https://github.com/exynil/i3lock-color-editor', '_blank');
+            window.open('https://github.com/exynil/i3lock-editor', '_blank');
         }
     }
 
